@@ -332,3 +332,9 @@ Refer com.d.tdd package for solutions
 - Get a Mentor
 
 ### :sparkles: "Clean Code is a journey, not a destination" :sparkles:
+
+## Attribution
+
+This repository contains my notes and practice code from the *Clean Code with Java - Simple Design, Refactoring & TDD* course by [in28minutes](https://www.in28minutes.com) (Ranga Karanam). The `clean-code-master` folder comes from the course's [in28minutes/clean-code](https://github.com/in28minutes/clean-code) repository. The original course material, including its example code, belongs to its author.
+
+The [MIT license](LICENSE) in this repository applies only to my own notes, changes and additions, not to the original course material.
